@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Pinterest OpsKit
+> Find out everything you need to know to reliably scrape Pinterest with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/pinterest)
+
+This kit provides the blueprint for Pinterest scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-pinterest-scrapers)
 - [Scrapers By Language](#pinterest-scrapers-by-language)
@@ -36,31 +47,30 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-pinterest-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [social-media-profile-scrapers](https://github.com/shaikhsajid1111/social-media-profile-scrapers) ![img](https://github.com/shaikhsajid1111.png?size=20) | python | ⭐ 475 | ✅ Yes | 2024-07-11 | ✅ |
-| [pinterest-image-scraper](https://github.com/xjdeng/pinterest-image-scraper) ![img](https://github.com/xjdeng.png?size=20) | python | ⭐ 234 | ✅ Yes | 2020-08-02 | ✅ |
-| [pinscrape](https://github.com/iamatulsingh/pinscrape) ![img](https://github.com/iamatulsingh.png?size=20) | python | ⭐ 97 | ✅ Yes | 2024-10-28 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [social-media-profile-scrapers](https://github.com/shaikhsajid1111/social-media-profile-scrapers) ![img](https://github.com/shaikhsajid1111.png?size=20) | python | ⭐ 475 | ❌ No | 2024-07-11 |
+| [pinterest-image-scraper](https://github.com/xjdeng/pinterest-image-scraper) ![img](https://github.com/xjdeng.png?size=20) | python | ⭐ 234 | ❌ No | 2020-08-02 |
+| [pinscrape](https://github.com/iamatulsingh/pinscrape) ![img](https://github.com/iamatulsingh.png?size=20) | python | ⭐ 97 | ❌ No | 2024-10-28 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Pinterest Scrapers By Language <a id="pinterest-scrapers-by-language"></a>
-
 ### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [social-media-profile-scrapers](https://github.com/shaikhsajid1111/social-media-profile-scrapers) | ⭐ 475 | 2024-07-11 | — | ✅ Yes |
-| [pinterest-image-scraper](https://github.com/xjdeng/pinterest-image-scraper) | ⭐ 234 | 2020-08-02 | — | ✅ Yes |
-| [pinscrape](https://github.com/iamatulsingh/pinscrape) | ⭐ 97 | 2024-10-28 | — | ✅ Yes |
-| [Pinterest-infinite-crawler](https://github.com/mirusu400/Pinterest-infinite-crawler) | ⭐ 66 | 2024-02-03 | — | ✅ Yes |
-| [pinterest-image-scrap](https://github.com/iamatulsingh/pinterest-image-scrap) | ⭐ 64 | 2024-08-31 | — | ✅ Yes |
-| [pinterest-dl](https://github.com/sean1832/pinterest-dl) | ⭐ 43 | 2025-04-28 | — | ✅ Yes |
-| [pinterest-web-scraper](https://github.com/SwatiModi/pinterest-web-scraper) | ⭐ 36 | 2022-12-27 | — | ✅ Yes |
-| [PinterestScraper](https://github.com/civiliangame/PinterestScraper) | ⭐ 25 | 2019-02-19 | — | ✅ Yes |
-| [pinterest-dl-gui](https://github.com/sean1832/pinterest-dl-gui) | ⭐ 14 | 2025-04-15 | — | ✅ Yes |
-| [Pinterest_scraper](https://github.com/eamander/Pinterest_scraper) | ⭐ 10 | 2018-05-03 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [social-media-profile-scrapers](https://github.com/shaikhsajid1111/social-media-profile-scrapers) | ⭐ 475 | 2024-07-11 | immediate | ❌ No |
+| [pinterest-image-scraper](https://github.com/xjdeng/pinterest-image-scraper) | ⭐ 234 | 2020-08-02 | immediate | ❌ No |
+| [pinscrape](https://github.com/iamatulsingh/pinscrape) | ⭐ 97 | 2024-10-28 | immediate | ❌ No |
+| [Pinterest-infinite-crawler](https://github.com/mirusu400/Pinterest-infinite-crawler) | ⭐ 66 | 2024-02-03 | immediate | ❌ No |
+| [pinterest-image-scrap](https://github.com/iamatulsingh/pinterest-image-scrap) | ⭐ 64 | 2024-08-31 | immediate | ❌ No |
+| [pinterest-dl](https://github.com/sean1832/pinterest-dl) | ⭐ 43 | 2025-04-28 | immediate | ✅ Yes |
+| [pinterest-web-scraper](https://github.com/SwatiModi/pinterest-web-scraper) | ⭐ 36 | 2022-12-27 | immediate | ❌ No |
+| [PinterestScraper](https://github.com/civiliangame/PinterestScraper) | ⭐ 25 | 2019-02-19 | unknown | ❌ No |
+| [pinterest-dl-gui](https://github.com/sean1832/pinterest-dl-gui) | ⭐ 14 | 2025-04-15 | immediate | ✅ Yes |
+| [Pinterest_scraper](https://github.com/eamander/Pinterest_scraper) | ⭐ 10 | 2018-05-03 | beginner | ❌ No |
 
 ---
 
@@ -91,7 +101,7 @@ Know a Pinterest scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
