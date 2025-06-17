@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Pinterest OpsKit
-> Find out everything you need to know to reliably scrape Pinterest with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/pinterest)
+> Find out everything you need to know to reliably scrape Pinterest with our new tool: [Ops Kit](https://scrapeops.io/websites/pinterest)
 
 This kit provides the blueprint for Pinterest scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -89,7 +89,7 @@ This kit provides the blueprint for Pinterest scraping operations:
 ---
 
 ## 🧠 Pinterest Tutorials & How-Tos<a id="pinterest-tutorials"></a>
-- 📘 [How to Scrape Pinterest at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-pinterest/)
+- 📘 [How to Scrape Pinterest at Scale](https://scrapeops.io/websites/pinterest/how-to-scrape-pinterest)
 - 🔐 [Web Scraping Pinterest Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
