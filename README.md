@@ -23,10 +23,10 @@ Perfect for:
 
 ---
 
-## 🧠 Pinterest OpsKit
-> Find out everything you need to know to reliably scrape Pinterest with our new tool: [Ops Kit](https://scrapeops.io/websites/pinterest)
+## 🧠 Pinterest Website Scraping Analyzer
+> Find out everything you need to know to reliably scrape Pinterest with our new tool: [Website Scraping Analyzer](https://scrapeops.io/websites/pinterest)
 
-This kit provides the blueprint for Pinterest scraping operations:
+Our Website Scraping Analyzer provides the blueprint for Pinterest scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
@@ -115,7 +115,6 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 
 ## 🏷 Tags
 Pinterest scraper, web scraping, pinterest API, python scraper, playwright, data scraping, anti-bot, github, open-source pinterest crawler, ScrapeOps
-
 
 ---
 
